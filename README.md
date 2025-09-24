@@ -23,7 +23,7 @@
 ---
 
 ## 🧠 Projetos em Destaque
-- [Jogo de Damas em C](https://github.com/BRYANGabb/jogo_de_dama_git) – Jogo de damas com movimentação e captura implementadas em C.
+- [Jogo de Damas em C](https://github.com/BRYANGabb/JOGO_DE_DAMA) – Jogo de damas com movimentação e captura implementadas em C.
 
 ---
 
