@@ -3,7 +3,7 @@
 ## 💼 Sobre mim
 - 🎓 Estudante de Engenharia de Software
 - 💻 Aspirante a Full Stack Developer
-- 📍 Samambaia, DF, Brasil
+- 📍 Brasília, DF, Brasil
 - 📚 Ainda aprendendo e explorando novas tecnologias
 
 ---
