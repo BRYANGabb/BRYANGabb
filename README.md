@@ -4,7 +4,7 @@
 - 🎓 Estudante de Engenharia de Software
 - 💻 Aspirante a Full Stack Developer
 - 📍 Brasília, DF, Brasil
-- 📚 Ainda aprendendo e explorando novas tecnologias
+- 📚 Sempre aprendendo e explorando novas tecnologias
 
 ---
 
@@ -24,7 +24,7 @@
 ---
 
 ## 🧠 Projetos em Destaque
-- [Jogo de Damas em C](https://github.com/BRYANGabb/JOGO_DE_DAMA) – Jogo de damas com movimentação e captura implementadas em C.
+- [Jogo de Damas em C](https://github.com/BRYANGabb/JOGO_DE_DAMA) – Jogo com movimentação e captura implementadas em C.
 
 ---
 
@@ -34,5 +34,5 @@
 ---
 
 ## 💡 Mais sobre mim
-- Estou sempre aprendendo novas tecnologias e melhorando meus projetos.  
+- Estou sempre aprendendo novas tecnologias e aprimorando meus projetos.
 - Aberto a contribuições e colaborações em projetos de programação.
