@@ -17,7 +17,8 @@
 ---
 
 ## 📊 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=BRYANGabb&show_icons=true&theme=radical&hide_border=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BRYANGabb&theme=tokyonight&hide_border=false&short_numbers=false)](https://git.io/streak-stats)
+
 ![GitHub Streak](https://streak-stats.demolab.com/?user=BRYANGabb&theme=radical&hide_border=true)
 
 ---
