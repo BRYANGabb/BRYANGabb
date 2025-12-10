@@ -17,9 +17,25 @@
 ---
 
 ## 📊 Estatísticas do GitHub
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BRYANGabb&theme=tokyonight&hide_border=false&short_numbers=false)](https://git.io/streak-stats)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=BRYANGabb&theme=radical&hide_border=true)
+### 🔥 GitHub Streak
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BRYANGabb&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
+
+---
+
+### ⭐ Estatísticas Gerais
+![Bryan GitHub Stats](https://github-readme-stats.vercel.app/api?username=BRYANGabb&show_icons=true&theme=tokyonight&hide_border=false)
+
+---
+
+### 📈 Linguagens Mais Usadas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BRYANGabb&layout=compact&theme=tokyonight&hide_border=false)
+
+---
+
+### 🚀 Gráfico de Atividade
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BRYANGabb&theme=tokyo-night&hide_border=false)
+
 
 ---
 
